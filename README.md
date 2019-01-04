@@ -22,4 +22,4 @@
       Ho=No Independent variable affect to dependent variable. 
       Ha=There are significant variable which affect on dependent variable.
       
-     
+  As we have only one sample.This dataset contains the categorical data.So I choose the Chi-Squred Gopdness of fit test.
