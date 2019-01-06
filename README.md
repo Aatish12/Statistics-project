@@ -17,9 +17,15 @@
     Dependent variable:Survaival data
     Independent variable:Age,Year of Operation,No. of positive axillary nodes
     
-# Research Questions and Hypothesis
+# Hypothesis
       As we have the information about the Haberman's survival dataset,we have to check the effect of dependent variable and independent variable.The Hypothesis will like this-
       Ho=No Independent variable affect to dependent variable. 
       Ha=There are significant variable which affect on dependent variable.
       
   As we have only one sample.This dataset contains the categorical data.So I choose the Chi-Squred Gopdness of fit test.As we don't know the mean of the population we can't use z-test.So I use Graphpad software to calculate chi-square.
+
+# Result
+ On the basis of test we reject the null hypothesis.In this analysis dependent variable can be affected by two independent variable.
+ 
+ # Conclusion
+  On the basis of the result we can conclude that chi-square test between age and survival reject the null hypothesis.It means that age can not affect on survival.Also Chi-square test between year of operation and survival reject the null hypothesis.
